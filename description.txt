@@ -1,0 +1,1 @@
+It is a dedicated discord tool that continuously sends a large number of messages to the channel discord via Discord Webhook - GitHub - KMKINGMAN/Discord-WebHook-Spammer: It is a dedicated discord tool that continuously sends a large number of messages to the channel discord via Discord Webhook
